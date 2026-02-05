@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356235988",
+    "project_id": "thananan-project",
+    "storage_bucket": "thananan-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356235988:android:684642fc7acd5334005941",
+        "android_client_info": {
+          "package_name": "com.example.nattanon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTkAEZILDHawc33RiD5IQTi1n7qRZNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356235988:android:c6deac549a439a91005941",
+        "android_client_info": {
+          "package_name": "not.thananan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTkAEZILDHawc33RiD5IQTi1n7qRZNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+name: new_piyawat
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  geolocator: ^12.0.0
+  url_launcher: ^6.2.6
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.0
+  video_player: ^2.8.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/egg.jpg
+    - assets/images/rice.jpg
+    - assets/images/monitor.jpg
+    - assets/images/larb.jpg
+
+    - assets/images/baby.jpg
+    - assets/images/candy.jpg
+    - assets/images/floor.jpg
+    - assets/videos/eggs.mp4
+    - assets/videos/rices.mp4
+    - assets/videos/monitors.mp4
+    - assets/videos/larbs.mp4
+    - assets/videos/babys.mp4
+    - assets/videos/eggs.mp4
+    - assets/videos/candys.mp4
+    - assets/videos/floors.mp4
+
+    - assets/images/cake.jpg
+    - assets/images/bingsu.jpg
+    - assets/images/chick.jpg
+    - assets/images/grill.webp
+    - assets/images/joke.jpg
+    - assets/images/pork.webp
+    - assets/images/roll.jpg
+
+    - assets/videos/bingsu.mp4
+    - assets/videos/cake.mp4
+    - assets/videos/chick.mp4
+    - assets/videos/grill.mp4
+    - assets/videos/joke.mp4
+    - assets/videos/pork.mp4
+    - assets/videos/roll.mp4
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/foot.png"
